@@ -1,3 +1,3 @@
 import qrcode
-img = qrcode.make('http://github.com/ArslanAshirov')
-img.save("qrcode")
+img = qrcode.make('https://arslanashirov.github.io/PORTFOLIO/')
+img.save("qrcode.png")
